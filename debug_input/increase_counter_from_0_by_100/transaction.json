@@ -1,0 +1,14 @@
+{
+    "payer": "6jqyZQDh9AByvySSLo4qWm4Wh2KxNee74jiDuKrPHx3F",
+    "instructions": [
+        {
+            "program_id": "CounterProgram11111111111111111111111111111",
+            "accounts": [
+                {"pubkey": "DpYvmZ9QJVjaj7zThuxD1oLDCc51HXCk1uSchwKDzgTW", "is_signer": true, "is_writable": false},
+                {"pubkey": "9DduwqS6qbH5dKbaxhLjmxcarmAtsYr7cmJdSLdbSMS3", "is_signer": false, "is_writable": true},
+                {"pubkey": "6jqyZQDh9AByvySSLo4qWm4Wh2KxNee74jiDuKrPHx3F", "is_signer": true, "is_writable": true}
+            ],
+            "data": [1, 100]
+        }
+    ]
+}

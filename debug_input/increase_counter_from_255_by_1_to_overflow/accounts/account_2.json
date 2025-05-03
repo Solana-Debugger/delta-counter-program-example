@@ -1,0 +1,14 @@
+{
+  "pubkey": "9DduwqS6qbH5dKbaxhLjmxcarmAtsYr7cmJdSLdbSMS3",
+  "account": {
+    "lamports": 897840,
+    "data": [
+      "/w==",
+      "base64"
+    ],
+    "owner": "CounterProgram11111111111111111111111111111",
+    "executable": false,
+    "rentEpoch": 18446744073709551615,
+    "space": 1
+  }
+}
